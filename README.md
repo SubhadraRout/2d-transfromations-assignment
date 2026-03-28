@@ -19,7 +19,7 @@ This is a graded assignment.
 
 ## How to submit
 
-- Clone this repository.
+- Fork this repository.
 - Complete the assignment.
 - Fill this form: https://forms.gle/dEVAaSe1F5YGLMHs5
 
